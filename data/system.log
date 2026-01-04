@@ -1,0 +1,1 @@
+2026-01-04 17:42:18,529 - ERROR - Error al conectar con la API del USGS: HTTPSConnectionPool(host='earthquake.usgs.gov', port=443): Max retries exceeded with url: /earthquakes/feed/v1.0/summary/4.5_hour.geojson (Caused by NameResolutionError("HTTPSConnection(host='earthquake.usgs.gov', port=443): Failed to resolve 'earthquake.usgs.gov' ([Errno 11001] getaddrinfo failed)"))
